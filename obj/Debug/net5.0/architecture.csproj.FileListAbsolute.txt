@@ -1,0 +1,15 @@
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/architecture.deps.json
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/architecture.runtimeconfig.json
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/architecture.runtimeconfig.dev.json
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/architecture.dll
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/ref/architecture.dll
+/Users/liampeeters/Desktop/architecture/bin/Debug/net5.0/architecture.pdb
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.csproj.AssemblyReference.cache
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.AssemblyInfoInputs.cache
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.AssemblyInfo.cs
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.csproj.CoreCompileInputs.cache
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.dll
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/ref/architecture.dll
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.pdb
+/Users/liampeeters/Desktop/architecture/obj/Debug/net5.0/architecture.genruntimeconfig.cache
